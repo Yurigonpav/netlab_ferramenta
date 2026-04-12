@@ -189,8 +189,8 @@ configurar → executar → mostrar_resultado
 ### 1. Clonar
 
 ```bash
-git clone https://github.com/seu-usuario/netlab-ferramenta.git
-cd netlab-ferramenta
+git clone https://github.com/Yurigonpav/netlab_ferramenta.git
+cd netlab_ferramenta
 ````
 
 ### 2. Instalar dependências
